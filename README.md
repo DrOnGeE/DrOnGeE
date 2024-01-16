@@ -6,7 +6,7 @@
     <a href="https://t.me/AnDrOnGeE">
         <img src="https://img.shields.io/badge/telegram-1188C3.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
-  <a href="zombi113377@gmail.com">
+  <a href="https://zombi113377@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 </p>
