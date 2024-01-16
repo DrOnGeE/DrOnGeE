@@ -29,6 +29,16 @@ Personal qualities: responsible, neat, stress-resistant and diligent.
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
 
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=DrOnGeE&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=DrOnGeE&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DrOnGeE&show_icons=true" />
+</picture>
 
 ##
