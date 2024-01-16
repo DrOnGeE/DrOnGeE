@@ -26,6 +26,7 @@ Personal qualities: responsible, neat, stress-resistant and diligent.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
 <div id="header" align="left">
 <picture>
@@ -53,6 +54,7 @@ Personal qualities: responsible, neat, stress-resistant and diligent.
   <img src="https://github-readme-stats.vercel.app/api?username=DrOnGeE&show_icons=true" />
 
 </picture>
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+
 </div>
+
 ##
