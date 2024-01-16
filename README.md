@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hi!%20&fontSize=54&animation=fadeIn&fontAlignY=30&fontAlign=35&desc=I'm%20Chinovnikov%20Andrey&descSize=45&descAlignY=55&descAlign=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=purple&height=256&section=header&text=Hi!%20&fontSize=54&animation=fadeIn&fontAlignY=30&fontAlign=35&desc=I'm%20Chinovnikov%20Andrey&descSize=45&descAlignY=55&descAlign=55)
 
 ## I'am developer from St. Petersburg
 
