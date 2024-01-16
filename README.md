@@ -43,7 +43,7 @@ Personal qualities: responsible, neat, stress-resistant and diligent.
 </picture>
 <picture>
   <source
-    srcset="[https://github-readme-stats.vercel.app/api?username=DrOnGe](https://github-readme-stats.vercel.app/api/pin/?username=DrOnGeE&repo=github-readme-stats)E&show_icons=true&theme=midnight-purple"
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=DrOnGeE&repo=github-readme-stats&show_icons=true&theme=midnight-purple"
     media="(prefers-color-scheme: dark)"
   />
   <source
