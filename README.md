@@ -43,9 +43,6 @@ Personal qualities: responsible, neat, stress-resistant and diligent.
   <img src="https://github-readme-stats.vercel.app/api?username=DrOnGeE&show_icons=true" />
     </div>
 <div id="header" align="right">
-    <div id="header" align="center">
-        <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine"/>
-    </div>
     </picture>
     <picture>
           <source
@@ -58,7 +55,6 @@ Personal qualities: responsible, neat, stress-resistant and diligent.
           />
           <img src="https://github-readme-stats.vercel.app/api?username=DrOnGeE&show_icons=true" />
    </picture>
-
 </div>
 
 ##
