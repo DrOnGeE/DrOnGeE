@@ -28,7 +28,7 @@ Personal qualities: responsible, neat, stress-resistant and diligent.
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
-<div id="header" align="center">
+<div id="header" align="left">
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=DrOnGeE&show_icons=true&theme=midnight-purple"
