@@ -40,5 +40,6 @@ Personal qualities: responsible, neat, stress-resistant and diligent.
   />
   <img src="https://github-readme-stats.vercel.app/api?username=DrOnGeE&show_icons=true" />
 </picture>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DrOnGeE&repo=github-readme-stats)](https://github.com/DrOnGeE/github-readme-stats)
 
 ##
