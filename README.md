@@ -11,7 +11,7 @@
     </a>
 </p>
 
-I graduated with honours from State University of Aerospace Instrumentation college with a specialty «Programmer».
+I graduated from State University of Aerospace Instrumentation college with a specialty «Programmer».
 
 Personal qualities: responsible, neat, stress-resistant and diligent.
 
